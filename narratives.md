@@ -8,12 +8,15 @@ Linear narratives follow a sequential and chronological structure, where the con
 **Advantages**:
 
 _Clarity_: The orderly progression helps the audience understand the logical sequence of ideas.
+
 _Control_: Presenters can guide the audience through a well-defined path, ensuring key points are covered.
+
 _Coherence_: Linear narratives facilitate a coherent and cohesive presentation, minimizing confusion.
 
 **Disadvantages**:
 
 _Rigidity_: Linear narratives may not allow for flexibility or adaptation based on audience interaction or feedback.
+
 _Predictability_: The audience might anticipate the content, potentially leading to reduced engagement.
 
 ### Non-linear Presentation Narrative:
@@ -22,14 +25,19 @@ Non-linear narratives are characterized by flexibility and interactivity. They a
 **Advantages**:
 
 _Interactivity_: Non-linear narratives engage the audience by enabling them to explore content based on their interests and needs.
+
 _Personalization_: Participants can choose their own path and focus on areas relevant to them.
+
 _Engagement_: The element of surprise and choice can enhance audience engagement and retention.
 
 **Disadvantages**:
 
 _Complexity_: Non-linear narratives require careful design to ensure a coherent and organized experience.
+
 _Potential Confusion_: Participants may feel overwhelmed or lost if the navigation isn't intuitive.
+
 _Time Management_: Ensuring a balanced presentation and controlling timing can be challenging.
+
 
 ### Subtypes
 Within these two primary types, there are various presentation formats that cater to specific objectives and contexts:
@@ -38,7 +46,7 @@ Within these two primary types, there are various presentation formats that cate
 Using visual aids or slides to guide the narrative, often used in storytelling presentations.
 
 2. **Question-and-Answer (Q&A) Narrative**: 
-3. Engaging the audience through questions and providing answers that guide the presentation's flow.
+Engaging the audience through questions and providing answers that guide the presentation's flow.
 
 4. **Comparative Narrative**: 
 Highlighting similarities and differences between concepts, options, or alternatives.
